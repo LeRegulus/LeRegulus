@@ -1,5 +1,5 @@
 - Hi there 👋 I'm Regulus Alou
-- 🔭 Software Developeer
+- 🔭 Software Developer
 - 🌱 I’m currently learning Cloud Computing AWS
 - 👯 I’m looking to collaborate on Software project
 - 💬 Ask me about Software Development
