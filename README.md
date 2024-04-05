@@ -1,4 +1,10 @@
-### Hi there 👋
+- Hi there 👋 I'm Regulus Alou
+- 🔭 Software Developeer
+- 🌱 I’m currently learning Cloud Computing AWS
+- 👯 I’m looking to collaborate on Software project
+- 💬 Ask me about Software Development
+- 📫 How to reach me: @regulus_Alou
+- ⚡ I’m interested in Software Development - IT news Tech - Otaku: Anime lover
 
 <!--
 **LeRegulus/LeRegulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
